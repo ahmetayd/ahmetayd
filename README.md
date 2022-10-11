@@ -1,9 +1,5 @@
 ### Hi there 👋
-<p align="left">
-  <a href="https://twitter.com/ahmetayd"><img alt="Twitter" height="32" width="32" src="assets/twitter.svg"></a>
-  <a href="https://github.com/ahmetayd"><img alt="GitHub" height="32" width="32" src="assets/github.svg"></a>
-  <a href="https://www.linkedin.com/in/ahmetayd/"><img alt="LinkedIn" height="32" width="32" src="assets/linkedin.svg"></a>
-</p>
+
 <!--
 **ahmetayd/ahmetayd** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
