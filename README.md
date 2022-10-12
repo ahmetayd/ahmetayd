@@ -9,7 +9,7 @@
 Hello,
 I'm [Ahmet AYDIN](https://www.linkedin.com/in/ahmetayd/), working as Senior DevOps Consultant at [Kloia](https://www.kloia.com).
 
-More than 19 years of experience based on IT infrastructures, I contributed 150+ projects!
+I have more than 19 years of experience based on IT infrastructures, I contributed 150+ projects!
 
 - Design and implement Platform pipelines,
 - Migrate legacy infrastructures to cloud (AWS, Azure, GCP),
