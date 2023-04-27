@@ -7,21 +7,16 @@
 </p>
 
 Hello,
-I'm [Ahmet AYDIN](https://www.linkedin.com/in/ahmetayd/), working as Senior DevOps Consultant at [Kloia](https://www.kloia.com).
+I'm [Ahmet AYDIN](https://www.linkedin.com/in/ahmetayd/), a Senior DevOps Consultant at [Kloia](https://www.kloia.com) with 20 years of experience in IT infrastructures. I have contributed to over 150 projects and hold 28 professional IT certifications, including expertise in OnPrem to AWS, Azure, and GCP cloud migrations.
 
-I have more than 19 years of experience based on IT infrastructures, I contributed 150+ projects!
+My specialties include designing and implementing platform pipelines, orchestrating container platforms with Kubernetes, Docker Swarm, and Rancher, and developing and maintaining automated CI/CD pipelines using tools such as Jenkins, Ansible, Terraform, and Pulumi. I am passionate about utilizing SDLC-based code build and deployment processes to deliver efficient and scalable solutions.
 
-- Design and implement Platform pipelines,
-- Migrate legacy infrastructures to cloud (AWS, Azure, GCP),
-- Design and orchestrate container platforms using Rancher, Kubernetes, Docker Swarm, or managed engines,
-- Design and Implement SDLC-based code build and deployment processes,
-- Develop and Maintain automated CI/CD pipelines ( using automation tools Jenkins, Ansible, Terraform, Pulumi, Crossplane, etc.)
-
-I have 27 professional IT certifications.
-
-Here it is some of them:
+Feel free to explore my GitHub profile to see my latest projects and contributions!
+<br/>
+<br/>
 
 <p align="left">
+<img src="img/AWS-dep.png" alt="dep" width="70" height="70"/>
 <img src="img/AWS-sap.png" alt="sap" width="70" height="70"/>
 <img src="img/AWS-saa.png" alt="saa" width="70" height="70"/>
 <img src="img/cka.png" alt="cka" width="70" height="70"/>
