@@ -17,7 +17,7 @@ Feel free to explore my GitHub profile to see my latest projects and contributio
 
 <p align="left">
 <img src="img/kubeastronaut.png" alt="kubeas" width="70" height="70"/>
-<img src="img/AWS-ambassador.png" alt="ambas" width="70" height="70"/>
+<img src="img/aws-ambassador.png" alt="ambas" width="70" height="70"/>
 <img src="img/AWS-dep.png" alt="dep" width="70" height="70"/>
 <img src="img/AWS-sap.png" alt="sap" width="70" height="70"/>
 <img src="img/AWS-secs.png" alt="secs" width="70" height="70"/>
