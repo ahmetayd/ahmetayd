@@ -7,7 +7,7 @@
 </p>
 
 Hello,
-I'm [Ahmet AYDIN](https://www.linkedin.com/in/ahmetayd/), a Senior DevOps Consultant with more than 20 years of experience in IT infrastructures. I have been holding 32 professional IT certifications, including expertise in OnPrem to AWS, Azure, and GCP cloud migrations.
+I'm [Ahmet AYDIN](https://www.linkedin.com/in/ahmetayd/), a Principal DevOps Architect with more than 23 years of experience in IT infrastructures. I have been holding 35 professional IT certifications, based on OnPrem, AWS, Azure, and GCP cloud platforms expertise.
 
 My specialties include designing and implementing platform pipelines, orchestrating container platforms with Kubernetes, Docker Swarm, and Rancher, and developing and maintaining automated CI/CD pipelines using tools such as Jenkins, Ansible, Terraform, and Pulumi. I am passionate about utilizing SDLC-based code build and deployment processes to deliver efficient and scalable solutions.
 
